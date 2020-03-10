@@ -8,3 +8,15 @@ Observations:
 
 
 ![Tumor_Vol_Changes](Images/TumorVolumenChanges.png)
+
+* ----------------------------------------------------------------------------------
+
+![Metastatic_Site_Changes](Images/MetastaticSiteChanges.png)
+
+* ----------------------------------------------------------------------------------
+
+![Mouse_Survival_Rate](Images/MiceSurvivalRate.png)
+
+* ----------------------------------------------------------------------------------
+
+![Tumor_Changes_Over_45day_Treatment](Images/BarTumorPercentChange.png)
